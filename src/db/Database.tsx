@@ -24,7 +24,7 @@ export const peopleData: Person[] = [
     title: 'Web Developer',
     location: 'Brasil, Ceara, Acarape',
 
-    about: 'Elencio Calado Zivane é um estudante de Engenharia da Computação na UNILAB. Ele possui uma sólida formação acadêmica em programação, algoritmos e estruturas de dados pela Rocketseat. Possui experiência em projetos de desenvolvimento web utilizando tecnologias como Git/GitHub, HTML5/CSS3, JavaScript/TypeScript, Tailwind/styled-components, ReactJs/React Native/Expo, NodeJs/Prisma, Java e C++. Ele é um entusiasta de tecnologia, sempre em busca de aprendizado e aprimoramento de suas habilidades.',
+    about: 'Elencio Calado Zivane é um estudante de Engenharia da Computação na UNILAB. Ele possui uma sólida formação acadêmica em programação, algoritmos e estruturas de dados pela Rocketseat. Possui experiência em projetos de desenvolvimento web utilizando tecnologias como Git/GitHub, HTML5/CSS3, JavaScript/TypeScript, Tailwind/styled-components, ReactJs/React Native/Expo, NodeJs/Prisma, Java e C++.',
 
   },
   {
