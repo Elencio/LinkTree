@@ -11,7 +11,7 @@ export const peopleData: Person[] = [
   {
     name: 'Edilson Rogerio',
     image: 'https://media.licdn.com/dms/image/D4D03AQHgEhv-rlyA1w/profile-displayphoto-shrink_200_200/0/1668127848711?e=1693440000&v=beta&t=WbT_Hj0g_aOeVEcQ0Le7-WGG_wq1V6ycen0FezDFNv0',
-    title: 'Web Developer',
+    title: 'Backend developer',
 
     location: 'Brasil, Ceara, Acarape',
 
@@ -21,7 +21,7 @@ export const peopleData: Person[] = [
   {
     name: 'Elencio Calado',
     image: 'https://media.licdn.com/dms/image/D4D03AQH0cx69Lz0XGA/profile-displayphoto-shrink_200_200/0/1683208530627?e=1693440000&v=beta&t=heQgf5tcUMoptxukfm341ZLzUyhEcScOnjq8_gbTki0',
-    title: 'Front-End Developer',
+    title: 'Web Developer',
     location: 'Brasil, Ceara, Acarape',
 
     about: 'Elencio Calado Zivane é um estudante de Engenharia da Computação na UNILAB. Ele possui uma sólida formação acadêmica em programação, algoritmos e estruturas de dados pela Rocketseat. Possui experiência em projetos de desenvolvimento web utilizando tecnologias como Git/GitHub, HTML5/CSS3, JavaScript/TypeScript, Tailwind/styled-components, ReactJs/React Native/Expo, NodeJs/Prisma, Java e C++. Ele é um entusiasta de tecnologia, sempre em busca de aprendizado e aprimoramento de suas habilidades.',
