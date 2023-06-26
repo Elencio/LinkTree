@@ -10,7 +10,7 @@ const LinkTree = () => {
           <span>Github</span>
           <BsGithub size={24} />
         </Link>
-        <Link href="mailto:info@arcdevs.com">
+        <Link href="mailto:arcdevstartup@gmail.com">
           <span>Email</span>
           <MessengerLogo size={24} />
 
@@ -20,7 +20,7 @@ const LinkTree = () => {
           <span>Twitter</span>
           <TwitterLogo size={24} />
         </Link>
-        <Link href="https://www.linkedin.com/company/arc-devs" target="_blank">
+        <Link href="https://www.linkedin.com/company/arc-devs/" target="_blank">
 
           <span>LinkedIn</span>
           <BsLinkedin size={24}/>
